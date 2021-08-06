@@ -1,6 +1,6 @@
 // == (comparação implícita)
 
-const numero = 5;
+const numero = 6;
 const texto = "5";
 
 console.log(numero === texto)
