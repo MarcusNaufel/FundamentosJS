@@ -9,3 +9,4 @@ const minhaVar = true;
 // tratamento de erro!
 
 console.error('deu erro!')
+
