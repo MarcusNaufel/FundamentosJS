@@ -1,26 +1,24 @@
-// let x = "";
-// console.log(x);
-// x = "oi";
+//let x = "";
+//console.log(x);
+//x = "oi";
 
-// DECLARAÇÃO DE FUNÇÃO
+//DECLARAÇÃO DE FUNÇÃO
 
 // 1) declara a função
-                      //2 -> valor de soma()
+//string
 function imprimeTexto(texto) {
-  console.log(texto)
+    console.log(texto)
 }
 
-// 2) executa a função (1 ou + vezes)
+// 2) executa a função (1 ou mais vezes)
 
-imprimeTexto(soma());
-// imprimeTexto("outro texto");
+//imprimeTexto("Oi");
+//imprimeTexto("Meu nome é Marcus");
+//imprimeTexto("E o seu?");
 
-// três formas de escrever funções
-
+// Três formas de escrever funções
 function soma(){
-  //outros códigos
-  //vários console.log()
-  return 2 + 2;
+    return  2 + 2;
 }
 
-// console.log(soma())
+console.log(soma());
