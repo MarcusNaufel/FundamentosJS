@@ -3,5 +3,5 @@
 - [x] Tipos Primitivos
 - [x] Declarando variáveis
 - [x] O JavaScript e o Node Js
-- [ ] Operadores
+- [x] Operadores
 - [ ] Funções
