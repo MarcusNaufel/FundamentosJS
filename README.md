@@ -4,4 +4,4 @@
 - [x] Declarando variáveis
 - [x] O JavaScript e o Node Js
 - [x] Operadores
-- [ ] Funções
+- [x] Funções
